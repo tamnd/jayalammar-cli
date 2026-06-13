@@ -1,0 +1,10 @@
+title       = "jay"
+baseURL     = "https://jayalammar-cli.tamnd.com/"
+description = "Browse Jay Alammar machine learning blog"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/jayalammar-cli"
